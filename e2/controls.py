@@ -93,6 +93,11 @@ class Dispatcher:
             if handler.function == function:
                handlers.remove(handler)
 
+    def unregisterAll(self, *args):
+        keys = args if (len(args) > 0) else self._handlers.keys()
+        for k in keys:
+            self._handlers[k] = []
+
     def start(self, interval=0):
         tick = time.monotonic() * 1000
         while True:
