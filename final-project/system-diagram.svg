@@ -1,0 +1,114 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="718" height="292" viewBox="0 0 718 292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="36.48" y1="184.89" x2="36.48" y2="153.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="gray"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="36.48" y1="146.08" x2="36.48" y2="114.83" xlink:href="#linear-gradient"/>
+  </defs>
+  <g>
+    <circle cx="217" cy="187" r="59" fill="gray"/>
+    <path d="M0,250v0m0-1v0Z" transform="translate(-347 -121)"/>
+  </g>
+  <g>
+    <g>
+      <g>
+        <rect x="27" y="154" width="19" height="31.25" fill="url(#linear-gradient)"/>
+        <path d="M0,0H0M0,0Z" transform="translate(-347 -121)"/>
+      </g>
+      <g>
+        <rect x="27" y="115" width="19" height="31.25" fill="url(#linear-gradient-2)"/>
+        <path d="M0,0H0M0,0Z" transform="translate(-347 -121)"/>
+      </g>
+    </g>
+    <g>
+      <rect x="46" y="104" width="13" height="91.25" fill="#009245"/>
+      <path d="M0,0H0M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect x="34" y="218" width="5" height="29.96" fill="#4d4d4d"/>
+      <path d="M0,0H0M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+    <g>
+      <rect x="39" y="207" width="12" height="62.9" fill="#009245"/>
+      <path d="M0,0H0M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+  </g>
+  <g>
+    <line x1="160" y1="167" x2="59" y2="152" fill="gray"/>
+    <g>
+      <line x1="159" y1="167" x2="61" y2="152" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+  </g>
+  <g>
+    <line x1="166" y1="217" x2="52" y2="237" fill="gray"/>
+    <g>
+      <line x1="165" y1="217" x2="54" y2="236" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+  </g>
+  <g>
+    <line x1="316" y1="142" x2="264" y2="151" fill="gray"/>
+    <g>
+      <line x1="315" y1="142" x2="266" y2="151" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+  </g>
+  <g>
+    <line x1="318" y1="238" x2="258" y2="228" fill="gray"/>
+    <g>
+      <line x1="317" y1="238" x2="260" y2="228" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+  </g>
+  <rect x="754" y="164" width="22" height="197" transform="translate(680 -623) rotate(90)" fill="#e6e6e6" stroke="#000" stroke-miterlimit="10"/>
+  <g>
+    <circle cx="501" cy="141" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="480" cy="141" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="459" cy="141" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="438" cy="141" r="8" fill="lime" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="417" cy="141" r="8" fill="lime" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="396" cy="141" r="8" fill="lime" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="375" cy="141" r="8" fill="lime" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="354" cy="141" r="8" fill="lime" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="333" cy="141" r="8" fill="lime" stroke="#999" stroke-miterlimit="10"/>
+  </g>
+  <rect x="754" y="260" width="22" height="197" transform="translate(776 -527) rotate(90)" fill="#e6e6e6" stroke="#000" stroke-miterlimit="10"/>
+  <g>
+    <circle cx="501" cy="237" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="480" cy="237" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="459" cy="237" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="438" cy="237" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="417" cy="237" r="8" fill="#4d4d4d" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="396" cy="237" r="8" fill="red" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="375" cy="237" r="8" fill="red" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="354" cy="237" r="8" fill="red" stroke="#999" stroke-miterlimit="10"/>
+    <circle cx="333" cy="237" r="8" fill="red" stroke="#999" stroke-miterlimit="10"/>
+  </g>
+  <text transform="translate(201 195)" font-size="18" fill="#fff" font-family="OpenSans, Open Sans">CPX</text>
+  <text transform="translate(0 95)" font-size="14" font-family="OpenSans, Open Sans">Range Finder</text>
+  <text transform="translate(161 12)" font-size="14" font-family="OpenSans, Open Sans">USB Jumper</text>
+  <text transform="translate(5 288)" font-size="14" font-family="OpenSans, Open Sans">VOC Sensor</text>
+  <text transform="translate(319 120)" font-size="14" font-family="OpenSans, Open Sans">LED Strip: Usage Indicator</text>
+  <text transform="translate(319 269)" font-size="14" font-family="OpenSans, Open Sans">LED Strip: VOC Indicator</text>
+  <rect x="530" y="141" width="188" height="104" rx="12"/>
+  <text transform="translate(594 198)" font-size="18" fill="#fff" font-family="OpenSans, Open Sans">Battery</text>
+  <g>
+    <line x1="529" y1="189" x2="276" y2="187" fill="gray"/>
+    <g>
+      <line x1="528" y1="189" x2="278" y2="187" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+      <path d="M0,0Z" transform="translate(-347 -121)"/>
+    </g>
+  </g>
+  <path d="M0,0V248" transform="translate(-347 -121)" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="6"/>
+  <rect x="184" y="19" width="33" height="45" fill="#ccc" stroke="#000" stroke-miterlimit="10"/>
+  <rect x="211" y="123" width="16" height="16" fill="#ccc" stroke="#000" stroke-miterlimit="10"/>
+</svg>
